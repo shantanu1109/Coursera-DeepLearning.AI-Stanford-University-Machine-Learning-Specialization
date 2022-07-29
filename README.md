@@ -51,14 +51,14 @@ By the end of this Specialization, you will be ready to:
 -------------------------------------------------------------------------------------------------------------
 
 ## There are 3 Courses in this Specialization
-~~~
-mermaid
+
+```mermaid
 flowchart TD
     B["fa:fa-twitter Machine Learning Specialization"]
     B-->C[fa:fa-ban Supervised Machine Learning: Regression and Classification]
     B-->D(fa:fa-spinner Advanced Learning Algorithms);
     B-->E(fa:fa-camera-retro Unsupervised Learning, Recommenders, Reinforcement Learning)
-~~~
+```
 
 ### COURSE 1
 ### Supervised Machine Learning: Regression and Classification
