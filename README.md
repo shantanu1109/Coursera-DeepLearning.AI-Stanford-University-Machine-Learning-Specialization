@@ -1,6 +1,7 @@
 -------------------------------------------------------------------------------------------
 
 <p align="center"><img width="40%" src="https://drlux.github.io/deeplearningai/logo.png" /></p>
+<p align="center"><img width="auto" src="https://cdn8.openculture.com/2022/06/21191516/Stanford-Deeplearning.ai-email-social-2.png" /></p>
 
 -------------------------------------------------------------------------------------------
 
