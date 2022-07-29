@@ -98,5 +98,13 @@ In the third course of the Machine Learning Specialization, you will:
 
 ----------------------------------------------------------------------------------------------------------------
 
+## 📝 Disclaimer 
+I made this repository as *a reference*. Please do not copy paste the solution as is. You can find the solution if you read the instruction carefully. 
+
  
+## 📝 License
+The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+ 
+-----------------------------------------------------------------------------------------------------------------
+
 
