@@ -86,7 +86,8 @@ In the third course of the Machine Learning Specialization, you will:
 
 1. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/77SF7ZRAHG2S)
 2. [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/EYY44BAYYAGU)
-3. [Unsupervised Learning, Recommenders, Reinforcement Learning]()
+3. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/verify/DZGJW22HB7VZ)
+4. [Machine Learning Specialization (Final Certificate)](https://www.coursera.org/account/accomplishments/specialization/8F3W88UHF7CL)
 
 --------------------------------------------------------------------------------------------------------------
 
